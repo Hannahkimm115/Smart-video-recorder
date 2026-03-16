@@ -12,4 +12,4 @@ My simple video recorder using OpenCV
 - ESC: Exit
 
 ## 실행 화면
-![Execution Screen](./Screenshot.png) 
+![Execution Screen](./Screenshot.png)
